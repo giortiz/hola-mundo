@@ -1,0 +1,4 @@
+h2::before{
+    content: "Hola Mundo con CSS";
+    color: purple
+}
